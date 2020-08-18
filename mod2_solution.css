@@ -1,0 +1,53 @@
+.chicken {  
+	background-color: lightpink;
+}
+.beef{
+	color: white; 
+	background-color: #DC143C;
+}
+.sushi{
+	background-color: #31639c;
+}
+span {
+	float: right; 
+	border: 1px solid black;
+	border-top: 0px;	
+	border-right: 0px;
+	font-family: Calibri;
+	font-weight: bold;
+	font-size: 100%;
+	width: 100px;
+	height: 30px;
+	text-align: center;
+	padding-top: 6px;
+}
+
+.heading {
+	width:90%; 
+	background-color: #BEBEBE; 
+	float: right;
+	margin-right: 5%; 
+	border: 1px solid black;
+	border-bottom: 0px;
+
+}
+.para{
+	background-color: #BEBEBE;
+	border: 1px solid black;
+	width: 90%;
+	height: auto;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 50px;
+	padding: 15px;
+	padding-top: 40px;
+	font-family: Calibri;
+	font-size: 50%;
+}
+.row {
+	width: 90%;
+	height: auto;
+	margin-right: auto;
+	margin-left: auto;
+}
+ 
